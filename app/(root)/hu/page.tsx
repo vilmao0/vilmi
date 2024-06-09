@@ -13,7 +13,8 @@ const Hu = () => {
         Üdv!
       </h1>
       <h1 className='font-mono text-4xl text-emerald-300'>
-        Geri butus!
+        Vilmihu link shortener
+        
 
 
         
